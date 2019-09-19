@@ -2,7 +2,7 @@
 Aplicación en node para la aplicacion a la bacante como desarrollador full stack junior en dxc technology
 pasos para ejecutar la aplicación
 
-## 1. instalar dependencias
+## 1. Instalar dependencias
 Ejecutar el comando:
 
 `` $ npm i ``
